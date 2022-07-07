@@ -43,10 +43,10 @@
             <a class="nav-link js-scroll-trigger" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
+            <a class="nav-link js-scroll-trigger" href="#projects">Documentation</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+            <a class="nav-link js-scroll-trigger" href="#education">Challenges</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
@@ -95,32 +95,15 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
         <div class="my-auto">
-          <h2 class="mb-5">Project</h2>
+          <h2 class="mb-5">Documentation</h2>
+
+          
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">MusicBase</h3>
-              <div class="subheading mb-3">Mobile Application</div>
-              <p>Using Flutter Framework to help music teachers monitor students' progress</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <li class="list-inline-item">
-                see project
-                <a href="https://github.com/Icyautumn/musicbase">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            </div>
-          </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Ninja Kitchen</h3>
-              <div class="subheading mb-3">Website</div>
-              <p>Website showing popular restaurants</p>
+              <h3 class="mb-0">Microsoft Azure Fundamentals: Part 1</h3>
+              <div class="subheading mb-3"></div>
+              <img src="img/part_1.png" alt="">
             </div>
             <div class="resume-date text-md-right">
               <li class="list-inline-item">
@@ -137,9 +120,9 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">WorkoutLah!</h3>
-              <div class="subheading mb-3">Web Application</div>
-              <p>Web application in which users can create workout routines for other people as well as track their food intake.</p>
+              <h3 class="mb-0">Microsoft Azure Fundamentals: Part 2</h3>
+              <div class="subheading mb-3"></div>
+              <img src="img/part 2.png" alt="">
             </div>
             <div class="resume-date text-md-right">
               <li class="list-inline-item">
@@ -156,9 +139,66 @@
 
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Bitcoin Tracker</h3>
-              <div class="subheading mb-3">Mobile Application</div>
-              <p>Mobile application to track bitcoin price which users can view to see its prices in different currencies.</p>
+              <h3 class="mb-0">Microsoft Azure Fundamentals: Part 3</h3>
+              <div class="subheading mb-3"></div>
+              <img src="img/part 3.png" alt="">
+            </div>
+            <div class="resume-date text-md-right">
+              <li class="list-inline-item">
+                see project
+                <a href="https://github.com/Icyautumn/bitcoin_tracker">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Microsoft Azure Fundamentals: Part 4</h3>
+              <div class="subheading mb-3"></div>
+              <img src="img/part 4.png" alt="">
+            </div>
+            <div class="resume-date text-md-right">
+              <li class="list-inline-item">
+                see project
+                <a href="https://github.com/Icyautumn/bitcoin_tracker">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Microsoft Azure Fundamentals: Part 5</h3>
+              <div class="subheading mb-3"></div>
+              <img src="img/part 5.png" alt="">
+            </div>
+            <div class="resume-date text-md-right">
+              <li class="list-inline-item">
+                see project
+                <a href="https://github.com/Icyautumn/bitcoin_tracker">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Microsoft Azure Fundamentals: Part 6</h3>
+              <div class="subheading mb-3"></div>
+              <img src="img/part 6.png" alt="">
             </div>
             <div class="resume-date text-md-right">
               <li class="list-inline-item">
@@ -179,30 +219,9 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
         <div class="my-auto">
-          <h2 class="mb-5">Education</h2>
+          <h2 class="mb-5">Challenges</h2>
 
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Temasek Polytechnic</h3>
-              <div class="subheading mb-3">Diploma in Information Technology</div>
-              <!-- <div></div> -->
-              <p>GPA: 3.98</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">April 2021 - May 2024</span>
-            </div>
-          </div>
-
-          <div class="resume-item d-flex flex-column flex-md-row">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Kaplan Higher Education Institute</h3>
-              <div class="subheading mb-3">Diploma in Information Technology</div>
-              <!-- <p>GPA: 3.56</p> -->
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">March 2018 - December 2018</span>
-            </div>
-          </div>
+          <img src="img/challenge.png" alt="">
 
         </div>
       </section>
